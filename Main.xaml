@@ -118,7 +118,7 @@
         <InArgument x:TypeArguments="ss:SecureString">[New System.Net.NetworkCredential("","cqwi52gPc5XOb+AJmPHtHQZKGdyDbo7r7+gBeU7H").SecurePassword]</InArgument>
       </Assign.Value>
     </Assign>
-    <uaa:AWSScope TemporarySessionToken="{x:Null}" AccessKeyId="AKAZQ3DT4SCDDM5TROB" DisplayName="Amazon Web Services Scope" sap:VirtualizedContainerService.HintSize="433.6,672.8" IAMRole="IAM_ROLE" sap2010:WorkflowViewState.IdRef="AWSScope_1" Region="us-east-1" SecretAccessKey="[SecKey]">
+    <uaa:AWSScope TemporarySessionToken="{x:Null}" AccessKeyId="Accesskey" DisplayName="Amazon Web Services Scope" sap:VirtualizedContainerService.HintSize="433.6,672.8" IAMRole="IAM_ROLE" sap2010:WorkflowViewState.IdRef="AWSScope_1" Region="us-east-1" SecretAccessKey="[SecKey]">
       <uaa:AWSScope.Body>
         <ActivityAction x:TypeArguments="uac:AWSCmd">
           <ActivityAction.Argument>

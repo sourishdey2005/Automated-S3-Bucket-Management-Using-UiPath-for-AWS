@@ -39,3 +39,9 @@ Before getting started, ensure the following are set up:
 Follow these steps to get the automation up and running:
 
 ### 1️⃣ Clone the Repository
+
+![image](https://github.com/user-attachments/assets/0982f5cb-0ac1-4f1d-b138-067ebf3ceb85)
+
+
+
+
